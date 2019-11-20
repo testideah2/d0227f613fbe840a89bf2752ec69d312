@@ -5,9 +5,9 @@
         xmlns:cdv="http://cordova.apache.org/ns/1.0"
         id          = "ru.arendataxi66.opencashtaxi"
         versionCode = "10"
-        version     = "1.0.0">
+        version     = "1.1.0">
 
-    <name>ТЕСТ. arendataxi66.ru</name>
+    <name>arendataxi66.ru</name>
 
     <description>
         Приложение для аренды такси в Екатеринбурге

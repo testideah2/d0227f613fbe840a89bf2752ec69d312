@@ -5,12 +5,12 @@
         xmlns:cdv="http://cordova.apache.org/ns/1.0"
         id          = "ru.arendataxi66.opencashtaxi"
         versionCode = "10"
-        version     = "1.2.0">
+        version     = "1.3.0">
 
-    <name>arendataxi66.ru</name>
+    <name>Аренда авто под такси в Екб</name>
 
     <description>
-        Приложение для аренды такси в Екатеринбурге
+        Аренда авто под такси в Екатеринбурге 0+
     </description>
 
     <author>Tadapp</author>
